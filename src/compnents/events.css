@@ -1,0 +1,64 @@
+.events .card{
+    border: none;
+    background-color:#F9F9F9 ;
+    margin: 2rem;
+}
+.event-cont{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    gap: 2rem;
+
+}
+.event-right .first{
+    color: #B05C26;
+    font-weight: bold;
+
+}
+.events   .event-cont{
+    margin-top: 8rem;
+    background: url(../images//Group\ 4202.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1170px;
+
+height: 681px;
+}
+.events{
+    margin-bottom: 2rem;
+    position:relative;
+}
+
+.events .capture{
+    position: absolute;
+    top: 7px;
+    left: 19rem;
+}
+.event-cont .event-left .coffe img{
+  width:100%;
+
+}
+.event-cont .event-left {
+    margin-right: 5rem;
+    width: 400px;
+    height: 549px;
+   
+
+}
+.events .card-content{
+    background-color: white;
+    font-size: 16px;
+    color: #5C332B;
+}
+.comm span{
+    width: 34px;
+    height: 23px;
+    overflow: hidden;
+}
+
+.comm span img{
+    width: 34px;
+    height: 23px;
+    margin-left: .5rem;
+}

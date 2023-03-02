@@ -1,0 +1,18 @@
+.about-content{
+    display: flex;
+    align-items: center;
+    margin: auto;
+   
+    
+}
+.about-info{
+    width: 770px;
+    color: #525252;
+}
+.about{
+    margin: 3rem;
+}
+.about .contct{
+    color: var(--main-color);
+    font-size: 18px;
+}

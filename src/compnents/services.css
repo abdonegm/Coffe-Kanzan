@@ -1,0 +1,27 @@
+.service{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+}
+.product{
+    background-color: #F9F9F9;
+    padding: 1.5rem;
+    border-radius: 49px 49px 6px 0px;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+.product h5{
+    color: var(--main-color);
+}
+.service .persons{
+    color: var(--main-color);
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
+.service-image img{
+    width: 508px;
+height: 479px;
+
+}

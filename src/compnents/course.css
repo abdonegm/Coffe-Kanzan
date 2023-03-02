@@ -1,0 +1,46 @@
+.courses-cont{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 8rem;
+}
+.courses-cont .card{
+    border: none;
+    width: 338px;;
+}
+.courses{
+    margin-top: 7rem;
+}
+
+.courses .add{
+    color: #B05C26;
+     width: 338px;
+     background-color: #F9F9F9;
+}
+.courses-left .card{
+    background-color: #F9F9F9;
+    border-radius: 320px 320px 0px 0px;
+    padding: 1rem 1rem 0 1rem;
+    position: relative;
+}
+.card .arow-left{
+    position: absolute;
+    top: 55%;
+    left: -3rem;
+}
+.card .arow-right{
+    position: absolute;
+    top: 55%;
+    right: -3rem;
+    cursor: pointer;
+}
+.by{
+    color: #B05C26;
+    font-size: 10px;
+}
+.courses .price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

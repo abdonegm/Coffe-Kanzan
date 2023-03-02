@@ -1,0 +1,30 @@
+
+.sub-cont{
+    width: 1171px;
+height: 331px;
+background-color: #F9F9F9;
+border-radius: 133px 133px 12px 12px;
+
+
+}
+.sub{
+    margin-top: 15rem;
+    position: relative;
+}
+.sub-right{
+padding: 2rem;
+margin-right: 2rem;
+  
+    
+
+}
+.sub-right .test {
+    font-size: 12px;
+    line-height: 1.5rem;
+    color: #525252;
+}
+.img-cover{
+   position: absolute;
+   top: -7rem;
+   right: 38rem;
+}
